@@ -14,6 +14,7 @@
 		A68EF8C32216024E00774E77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A68EF8C12216024E00774E77 /* LaunchScreen.storyboard */; };
 		A68EF8CE2216024E00774E77 /* The_ArithMETic_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68EF8CD2216024E00774E77 /* The_ArithMETic_AppTests.swift */; };
 		A68EF8D92216024E00774E77 /* The_ArithMETic_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68EF8D82216024E00774E77 /* The_ArithMETic_AppUITests.swift */; };
+		A6CD0CF22216282C00E83BB5 /* ArithMetic.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CD0CF12216282C00E83BB5 /* ArithMetic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		A68EF8D42216024E00774E77 /* The ArithMETic AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "The ArithMETic AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A68EF8D82216024E00774E77 /* The_ArithMETic_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = The_ArithMETic_AppUITests.swift; sourceTree = "<group>"; };
 		A68EF8DA2216024E00774E77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A6CD0CF12216282C00E83BB5 /* ArithMetic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArithMetic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				A68EF8BF2216024E00774E77 /* Assets.xcassets */,
 				A68EF8C12216024E00774E77 /* LaunchScreen.storyboard */,
 				A68EF8C42216024E00774E77 /* Info.plist */,
+				A6CD0CF12216282C00E83BB5 /* ArithMetic.swift */,
 			);
 			path = "The ArithMETic App";
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A6CD0CF22216282C00E83BB5 /* ArithMetic.swift in Sources */,
 				A68EF8BB2216024D00774E77 /* ViewController.swift in Sources */,
 				A68EF8B92216024D00774E77 /* AppDelegate.swift in Sources */,
 			);
