@@ -13,6 +13,8 @@ import UIKit
 class ViewController: UIViewController {
     
     
+    
+    
     @IBOutlet weak var ActivityTF: UITextField!
     @IBOutlet weak var WeightTF: UITextField!
     @IBOutlet weak var ExerciseTimeTF: UITextField!
